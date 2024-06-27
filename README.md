@@ -1,1 +1,1 @@
-# teaching_project
+# Teaching_project
